@@ -24,6 +24,8 @@ find_package(catkin REQUIRED COMPONENTS std_msgs message_generation)
    FILES
    Mavlink.msg
    command.msg
+   rc_channel.msg 
+   pos_estimate.msg
  )
 
 

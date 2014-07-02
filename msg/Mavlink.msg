@@ -6,4 +6,4 @@ uint8 seq
 uint8 sysid
 uint8 compid
 uint8 msgid
-uint64[] payload
+uint64[33] payload
